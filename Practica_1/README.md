@@ -18,6 +18,7 @@ cobra de la siguiente manera:
 Desplegar, Subtotal, Iva (8%), Total.
 
 **Ejemplo:**
+
 ![Ejecucion de la primera opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op1.png)
 ### 2 Calificaciones x Verdadero
 Esta opción va a leer 3 calificaciones, y calculara el promedio del alumno y
@@ -33,6 +34,7 @@ Si prom >100 Error en promedio
 **Nota**: Esta opción solo usara puro IF para conseguir su resultado
 
 **Ejemplo:**
+
 ![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op2.png)
 ### 3 Calificaciones optimizado
 Esta función va a leer 3 calificaciones calcule el promedio del alumno y
@@ -48,6 +50,7 @@ Si prom >100 Error en promedio
 **Nota**: Esta opción solo usara IF y ELSE para conseguir su resultado
 
 **Ejemplo:**
+
 ![Ejecucion de la tercera opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op3.png)
 ### 4 Agua
 Esta opción nos servirá para calcular el Total a pagar por consumo de
@@ -61,6 +64,7 @@ Rango3: 16 a 50 M3 $10.00 x M3
 Rango4: 51 M3 en adelante $11.00 x M3
 
 **Ejemplo:**
+
 ![Ejecucion de la cuarta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op4.png)
 ### 5 Salario
 Dentro del salario estará un algoritmo que sirva para calcular el salario semanal de un trabajador
@@ -71,11 +75,14 @@ El salario normal se considera las horas trabajadas menores o igual a la jornada
 salario extra se considera las horas trabajadas mayores a la
 jornada normal y se pagan dobles las primeras 9 y triples a partir de la
 décima hora extra
+
 **Ejemplo:**
+
 ![Ejecucion de la quinta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op5.png)
 
 ### 6 Salir
 Esta opcion permitirá terminar la ejecución de nuestro programa y poder salir de este.
 
 **Ejemplo:**
+
 ![Ejecucion de la sexta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op6.png)
