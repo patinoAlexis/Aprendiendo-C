@@ -1,5 +1,5 @@
 # Aprendiendo a programar en C
-## Practica 2 - Descripción:
+## Practica 3 - Descripción:
 Dentro de esta practica se seguirá trabajando con los **CICLOS** para poder reforzar lo aprendido dentro de la practica anterior.
 
 El programa tendrá las siguientes opciones:
