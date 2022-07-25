@@ -19,7 +19,7 @@ Desplegar, Subtotal, Iva (8%), Total.
 
 **Ejemplo:**
 
-![Ejecucion de la primera opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op1.png)
+![Ejecucion de la primera opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img/img_res_op1.png)
 ### 2 Calificaciones x Verdadero
 Esta opción va a leer 3 calificaciones, y calculara el promedio del alumno y
 desplegara:
@@ -35,7 +35,7 @@ Si prom >100 Error en promedio
 
 **Ejemplo:**
 
-![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op2.png)
+![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img/img_res_op2.png)
 ### 3 Calificaciones optimizado
 Esta función va a leer 3 calificaciones calcule el promedio del alumno y
 desplegara:
@@ -51,7 +51,7 @@ Si prom >100 Error en promedio
 
 **Ejemplo:**
 
-![Ejecucion de la tercera opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op3.png)
+![Ejecucion de la tercera opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img/img_res_op3.png)
 ### 4 Agua
 Esta opción nos servirá para calcular el Total a pagar por consumo de
 agua, donde el dato de entrada son los M3 de agua consumidos, Tomar en
@@ -65,7 +65,7 @@ Rango4: 51 M3 en adelante $11.00 x M3
 
 **Ejemplo:**
 
-![Ejecucion de la cuarta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op4.png)
+![Ejecucion de la cuarta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img/img_res_op4.png)
 ### 5 Salario
 Dentro del salario estará un algoritmo que sirva para calcular el salario semanal de un trabajador
 donde se obtiene como dato de entrada las horas semanales trabajadas, el salario por hora. El
@@ -78,11 +78,11 @@ décima hora extra
 
 **Ejemplo:**
 
-![Ejecucion de la quinta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op5.png)
+![Ejecucion de la quinta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img/img_res_op5.png)
 
 ### 6 Salir
 Esta opcion permitirá terminar la ejecución de nuestro programa y poder salir de este.
 
 **Ejemplo:**
 
-![Ejecucion de la sexta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img_res_op6.png)
+![Ejecucion de la sexta opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_1/img/img_res_op6.png)
