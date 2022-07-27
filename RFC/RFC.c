@@ -39,7 +39,7 @@ void rfc()
 {
 	int anio,mes,dia,i;
 	char nombres[30],ApellidoMat[30],ApellidoPa[30],rfc[30];
-	
+	//Conseguimos los datos
 		valid_char(nombres,"\tNombres:\n",1);
 		cadena_mayus(nombres,(strlen(nombres)));
 		
@@ -61,6 +61,7 @@ void rfc()
 	
 	anio_rfc(anio,rfc);
 	MesDia_rfc(mes,rfc,1);
+	
 	MesDia_rfc(dia,rfc,2);
 	rfc[10]='\0';
 	
@@ -95,7 +96,7 @@ int dias_nacimiento(int anio, int mes)
 }
 void verificar_rfc(char rfc[30])
 {
-	int i,j,k=0,n=0;
+	int i,j=0,k=0,n=0;
 	char malas[30]="PUTO PENE PITO JOTO CACA MAMO",probar[4],cadena[4];
 	for(i=0 ; i<=3 ; i++)
 	{
@@ -103,14 +104,17 @@ void verificar_rfc(char rfc[30])
 	}
 	cadena[i]='\0';
 	do{
-		for(i=0 ; malas[k]!=' ' ; i++,k++)
-		  {
+		for(i=0 ; malas[k] != '\0' && malas[k]!=' ' ; i++,k++)
+		{
 			probar[i]=malas[k];
-		  }
+		}
+		probar[i] = '\0';
+		
 		k++;
 		j=cadena_igual(probar,cadena);
 		n++;
-	}while(j==0 && n<=6);
+		
+	}while(j==0 && n<6);
 	if(j==1)
 	{
 		rfc[3]='X';
