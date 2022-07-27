@@ -34,10 +34,10 @@ Esta opción va a leer una cadena de texto y deberá de imprimirla de 10 maneras
 
 **Ejemplo:**
 
-![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_4/img/img_res_op2.png)
+![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_5/img/img_res_op2.png)
 
-![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_4/img/img_res_op2_2.png)
+![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_5/img/img_res_op2_2.png)
 
-![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_4/img/img_res_op2_3.png)
+![Ejecucion de la segunda opcion](https://raw.githubusercontent.com/patinoAlexis/Aprendiendo-C/main/Practica_5/img/img_res_op2_3.png)
 ### 3 Salir
 Esta opción permitirá terminar la ejecución de nuestro programa y poder salir de este.
